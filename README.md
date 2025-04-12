@@ -19,7 +19,7 @@ Prerequisites
 🚀 How to Run
     
     git clone https://github.com/MoosaSadiq18/tic-tac-toe.git
-    cd tictactoe-java
+    cd tic-tac-toe
 
 Compile the Java files
 
